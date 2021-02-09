@@ -1,0 +1,3 @@
+/*! For license information please see 48.a0295a00.chunk.js.LICENSE.txt */
+(this.webpackJsonpexcalidraw=this.webpackJsonpexcalidraw||[]).push([[48],{200:function(e,i,t){"use strict";t.r(i),i.default=async(e,i={},t=null)=>{i.fileName=i.fileName||"Untitled",t=t||await window.chooseFileSystemEntries({type:"save-file",accepts:[{description:i.description||"",mimeTypes:[e.type],extensions:i.extensions||[""]}]});const a=await t.createWritable();return await a.write(e),await a.close(),t}}}]);
+//# sourceMappingURL=48.a0295a00.chunk.js.map

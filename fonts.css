@@ -1,0 +1,21 @@
+/* http://www.eaglefonts.com/fg-virgil-ttf-131249.htm */
+@font-face {
+  font-family: "Virgil";
+  src: url("FG_Virgil.woff2");
+  font-display: swap;
+}
+
+/* https://github.com/microsoft/cascadia-code */
+@font-face {
+  font-family: "Cascadia";
+  src: url("Cascadia.woff2");
+  font-display: swap;
+}
+
+/* http://www.foundertype.com/index.php/FontInfo/index/id/4855 */
+/* 方正手迹-致温暖的小时光 */
+@font-face {
+  font-family: "ZHIWNDXSG";
+  src: url("FZSJ-ZHIWNDXSG.woff2");
+  font-display: swap;
+}

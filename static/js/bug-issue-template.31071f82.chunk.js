@@ -1,0 +1,2 @@
+(this.webpackJsonpexcalidraw=this.webpackJsonpexcalidraw||[]).push([[2],{193:function(n,e,t){"use strict";t.r(e),e.default=n=>"\n### Scene content\n\n```\nPaste scene content here\n```\n\n### Sentry Error ID\n\n".concat(n,"\n")}}]);
+//# sourceMappingURL=bug-issue-template.31071f82.chunk.js.map
